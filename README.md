@@ -1,4 +1,4 @@
-# typescript-tutorial
+# typescript-tutorial-fork
 All the course files for the TypeScript tutorial playlist on The Net Ninja YouTube channel.
 
 ## How to use the files
